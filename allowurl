@@ -5,7 +5,7 @@ cdn02.jumpcloud.com
 chocolatey.org 
 kickstart.jumpcloud.com 
 private-kickstart.jumpcloud.com 
-*.pwm.jumpcloud.com 
+pwm.jumpcloud.com 
 cdn.pwm.jumpcloud.com 
 devices.pwm.jumpcloud.com 
 pool.ntp.org 
